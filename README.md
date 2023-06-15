@@ -18,4 +18,4 @@ ChopTalk - аналог чата со следующими возможност�
 #Ссылки
 ---
 1. [Видео с работой приложения](https://drive.google.com/drive/folders/15qmV_OfyP4YEfGfCmkZHiEyZcybbO60t?usp=drive_link)
-2. Презентация проекта
+2. [Презентация проекта](https://github.com/cr1stal165/MobileAppChopTalk/blob/master/documents/Презентация-ChopTalk.pdf)
