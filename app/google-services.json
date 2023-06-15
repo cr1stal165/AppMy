@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "747125806105",
+    "project_id": "chop-talk",
+    "storage_bucket": "chop-talk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747125806105:android:19a2ff96128c604b46c688",
+        "android_client_info": {
+          "package_name": "com.example.choptalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747125806105-rfi53vufaq9093kec2cnn0c7936vn077.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.choptalk",
+            "certificate_hash": "82f0e29d2965b766176ee6e6e1d600853f1de4e5"
+          }
+        },
+        {
+          "client_id": "747125806105-10cibspq48d40flq1g4khm88avqvl25t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2RRh0sJtxdW-NYm9WMnBjX854KCGgHPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747125806105-10cibspq48d40flq1g4khm88avqvl25t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
